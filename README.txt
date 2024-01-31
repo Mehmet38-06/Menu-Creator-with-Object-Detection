@@ -1,0 +1,1 @@
+In this project, we(me and my 2 other friends) tried to do a menu creator. In our concept, when costumer come to the restaurant, s/he opens smart phone and creates his/her own menu by using prepared photos. Our model was educated for specific shapes. Other than these shapes, the ptogram does not run. 
